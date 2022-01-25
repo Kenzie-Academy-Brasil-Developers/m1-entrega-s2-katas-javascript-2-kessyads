@@ -1,1 +1,21 @@
-;;;;;
+SOMA;SOMA;SOMA;SOMA;SOMA
+add;console;num1 + num2;;
+soma;3,5;8;;
+MULTIPLY;MULTIPLY;MULTIPLY;MULTIPLY;MULTIPLY
+i;i<num2;product = add(product,num1);console;
+0;true;1;4, 6;
+1;true;2;4, 6;
+2;true;3;4, 6;
+;;;;
+POWER;POWER;POWER;POWER;POWER
+i;i <=b;multiply(pow,a);console;
+1;true;;3, 4;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
